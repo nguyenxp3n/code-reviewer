@@ -1,0 +1,18 @@
+{
+  "name": "code-reviewer",
+  "version": "1.0.0",
+  "description": "Senior code review agent and skill: hunts for real bugs, concurrency issues, security vulnerabilities, and data loss with concrete proof scenarios.",
+  "author": {
+    "name": "Hoang Chiem Nguyen",
+    "email": "nguyenxp3n@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/nguyenxp3n/code-reviewer",
+  "repository": "https://github.com/nguyenxp3n/code-reviewer",
+  "license": "MIT",
+  "agents": [
+    "agents/code-reviewer.md"
+  ],
+  "skills": [
+    "skills/code-reviewer"
+  ]
+}
